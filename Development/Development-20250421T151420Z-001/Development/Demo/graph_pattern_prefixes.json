@@ -1,0 +1,10 @@
+{
+    "om": "http://www.ontology-of-units-of-measure.org/resource/om-2/",
+    "ic-fc": "http://ontology.tno.nl/interconnect/forecast#",
+    "ic-data": "http://ontology.tno.nl/interconnect/datapoint#",
+    "time": "http://www.w3.org/2006/time#",
+    "saref": "https://saref.etsi.org/core/",
+    "Saref4ener": "https://saref.etsi.org/saref4ener/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "gn": "https://www.geonames.org/ontology#"
+}
